@@ -7,7 +7,7 @@ Script ini cocok untuk dijalankan langsung dari halaman web melalui DevTools Con
 ### ✅ Cara Menggunakan:
 1. Buka halaman web target.
 2. Tekan `F12` atau klik kanan → **Inspect** → buka tab **Console**.
-3. Buka file [`main.js (tanpa turbo)`](./main.js) , [`main-fast.js(turbo)`](./main-fast.js) dari repo ini.
+3. Buka file [`main.js (tanpa turbo)`](./main.js) atau [`main-fast.js(turbo)`](./main-fast.js) dari repo ini.
 4. **Salin seluruh kode** dari `main.js`.
 5. **Tempelkan** ke dalam Console.
 6. Tekan `Enter` dan script akan berjalan.
