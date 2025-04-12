@@ -6,7 +6,7 @@ Bot untuk membersihkan omonganmu
 Script ini cocok untuk dijalankan langsung dari halaman web melalui DevTools Console.
 
 ### ✅ Cara Menggunakan:
-1. Buka halaman web target.
+1. Buka halaman X kamu.
 2. Tekan `F12` atau klik kanan → **Inspect** → buka tab **Console**.
 3. Buka file [`main.js (Tanpa Mode Cepat)`](./main.js) atau [`main-fast.js (+Mode Cepat)`](./main-fast.js) dari repo ini.
 4. **Salin seluruh kode** dari `main.js`.
