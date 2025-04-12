@@ -1,4 +1,5 @@
 # twittcleaner
+Bot untuk membersihkan omonganmu
 
 ## 🧪 `main.js` – Jalankan di Console
 
