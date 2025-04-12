@@ -89,7 +89,7 @@
     `;
   
     const antiAIBTitle = document.createElement("h3");
-    antiAIBTitle.textContent = "Anti AIB";
+    antiAIBTitle.textContent = "Twitt Cleaner";
     antiAIBTitle.style.cssText = `
       margin: 0 0 10px 0;
       padding: 0;
@@ -147,13 +147,13 @@
     const turboModeCheckbox = document.createElement("input");
     turboModeCheckbox.type = "checkbox";
     turboModeCheckbox.id = "turboModeToggle";
-    turboModeCheckbox.title = "Mode turbo untuk kecepatan maksimal";
+    turboModeCheckbox.title = "Mode Cepat untuk kecepatan maksimal";
   
     const turboModeLabel = document.createElement("label");
     turboModeLabel.htmlFor = "turboModeToggle";
     turboModeLabel.style.cssText = "font-size: 14px;";
-    turboModeLabel.textContent = "🚀 Turbo Mode";
-    turboModeLabel.title = "Centang untuk mode turbo";
+    turboModeLabel.textContent = "🚀 Mode Cepat";
+    turboModeLabel.title = "Centang untuk mode cepat";
   
     turboModeWrapper.appendChild(turboModeCheckbox);
     turboModeWrapper.appendChild(turboModeLabel);
