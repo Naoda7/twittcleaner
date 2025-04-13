@@ -632,7 +632,7 @@
 
   // Initial status
   updateStatus("✅ Bot siap digunakan. Pilih opsi penghapusan:");
-  updateDescription("Pilih jenis konten yang ingin dibersihkan. Form username akan muncul jika diperlukan.");
+  updateDescription("Pilih Menu dan bersihkan.");
 
   // Mode toggle event listeners
   safeModeCheckbox.addEventListener('change', function() {
